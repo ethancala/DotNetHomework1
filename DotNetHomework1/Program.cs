@@ -7,6 +7,7 @@
 //I decided to use functions for this program because it is a natural habit for me, I hope this isn't an issue.
 //No LLMs were used in this assignment.
 
+//This is a test comment
 namespace DotNetHomework1
 
 {
